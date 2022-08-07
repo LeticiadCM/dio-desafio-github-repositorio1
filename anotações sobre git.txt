@@ -1,5 +1,3 @@
-GIT - anotações de aula
-
 - openssl sha1
 
 - ir para o ambiente desejado e abrir git bash here;
