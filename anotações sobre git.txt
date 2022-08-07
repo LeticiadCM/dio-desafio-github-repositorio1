@@ -1,0 +1,32 @@
+GIT - anotações de aula
+
+- openssl sha1
+
+- ir para o ambiente desejado e abrir git bash here;
+
+- ls para listar as pastas;
+
+- abrir pasta: cd *nome*;			
+
+- criar pasta dentro da pasta: mkdir *nome*;
+
+- ls -a: mostra arquivos ocultos;
+
+- criar commit inicial: 
+git add *
+git commit -m "commit inicial(texto)";
+
+- comando git init;
+
+- comando git status;
+
+- comando git push;
+ 
+- comando git push origin main;
+
+- comando git clone + paste;
+
+
+Configurações importantes:
+git config --global user.email "email"
+git config --global user.name "nome"
