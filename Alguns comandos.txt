@@ -1,20 +1,28 @@
+Criação de novo repositório
 - git init;
 
+Criação de arquivo
 - git add;
 
+Verificar status de arquivo
 - git status;
 
+Passar o arquivo para o repositório remoto
 - git push;
- 
 - git push origin main;
 
+Clonar repositório
 - git clone + paste;
 
+Atualizar email do usuário
 -git config --global user.email "email"
 
+Atualizar nome do usuário
 -git config --global user.name "nome"
 
+Comitar com mensagem
 - git commit -m "msg"
 
+Remover arquivo
 - git rm "xy.txt"
 
