@@ -1,4 +1,4 @@
-GIT - anotações de aula
+GIT - anotaÃ§Ãµes de aula
 
 - openssl sha1
 
@@ -12,7 +12,7 @@ GIT - anotações de aula
 
 - ls -a: mostra arquivos ocultos;
 
-- criar commit inicial: 
-git add *
-git commit -m "commit inicial(texto)";
-
+- criar commit: 
+git add .
+git commit -m "commit inicial(texto)"
+git push origin main
